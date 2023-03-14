@@ -10,7 +10,19 @@
 </p>
 
 <h2>Travel Assistant</h2>
---
+This project is an
+application capable of accompanying and satisfying the needs of a user during
+his personal travels.
+The approach followed for this project was to develop functionalities such as:
+
+- Management of the user's personal vehicles, with the possibility to choose which vehicle
+will be used.
+- Monitor distances traveled and locations visited
+- View nearest/cheapest filling stations
+- View nearest points of interest with various filters available
+- View frequent routes
+- Calculate routes between points
+- View directions when driving a route
 
 
 <h2>Languages</h2>
