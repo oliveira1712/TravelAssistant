@@ -82,8 +82,8 @@ Finally, the AndroidManifest.xml file needs to be modified in order to change th
 
 ### Gas Stations Screen | More Screen
 <p>
-  <img height="600" src="https://github.com/oliveira1712/TravelAssistant/blob/main/images/Gas_Stations_Screen.png"/>
-  <img height="600" src="https://github.com/oliveira1712/TravelAssistant/blob/main/images/More_Screen.png"/>
+  <img height="600" width="300" src="https://github.com/oliveira1712/TravelAssistant/blob/main/images/Gas_Stations_Screen.png"/>
+  <img height="600" width="500" src="https://github.com/oliveira1712/TravelAssistant/blob/main/images/More_Screen.png"/>
 </p>
 
 <h2>Authors</h2>
