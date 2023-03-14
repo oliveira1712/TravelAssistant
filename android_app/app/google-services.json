@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753950224693",
+    "project_id": "travelassistant-3506e",
+    "storage_bucket": "travelassistant-3506e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753950224693:android:9b0cf00e7b30ab8149dc7c",
+        "android_client_info": {
+          "package_name": "com.example.travelassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753950224693-4iu1v81jgda916okuspcv7medmihk8h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2J04JNr6rxgUpnD4poQjRmKR8DFqYmaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753950224693-4iu1v81jgda916okuspcv7medmihk8h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
