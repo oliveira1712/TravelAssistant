@@ -8,7 +8,7 @@
   <a href="https://github.com/oliveira1712/TravelAssistant/blob/main/documentation/Utterance.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Utterance-grey?style=for-the-badge"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://github.com/oliveira1712/TravelAssistant/blob/main/documentation/Report.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Report-grey?style=for-the-badge"/>
   </a>
 </p>
