@@ -4,6 +4,10 @@
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=School%20year&message=2022/2023&color=informational"/>
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Discipline&message=CMU&color=informational"/>
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Grade&message=19&color=sucess"/>
+  
+  <a href="https://github.com/oliveira1712/TravelAssistant/blob/main/documentation/Utterance.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-Utterance-grey?style=for-the-badge"/>
+  </a>
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/-Report-grey?style=for-the-badge"/>
   </a>
@@ -23,6 +27,13 @@ will be used.
 - View frequent routes
 - Calculate routes between points
 - View directions when driving a route
+
+## Additional Functionalities
+
+- Dark and Light Theme
+- Multilanguage Support
+- Responsive Layout
+- Background Services
 
 
 <h2>Languages</h2>
@@ -58,6 +69,22 @@ Finally, the AndroidManifest.xml file needs to be modified in order to change th
 
 
 ## Screenshots
+
+### Map Screen
+![MapScreen](https://github.com/oliveira1712/TravelAssistant/blob/main/images/Map_Screen.png)
+
+---
+
+### Points Of Interest Screen
+![POIScreen](https://github.com/oliveira1712/TravelAssistant/blob/main/images/Points_Of_Interest_Screen.png)
+
+---
+
+### Gas Stations Screen | More Screen
+<p>
+  <img height="600" src="https://github.com/oliveira1712/TravelAssistant/blob/main/images/Gas_Stations_Screen.png"/>
+  <img height="600" src="https://github.com/oliveira1712/TravelAssistant/blob/main/images/More_Screen.png"/>
+</p>
 
 <h2>Authors</h2>
 
